@@ -35,7 +35,7 @@
   flex-direction: row;
   justify-content: flex-start;
   flex-wrap: wrap;
-  width: contentWidth;
+  width: 50rem;
 }
 .footer__element {
   padding: 1rem;
